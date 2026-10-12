@@ -8,7 +8,7 @@
 
 ## About Me
 
-I am a passionate AI/ML Engineer specializing in Generative AI, Large Language Models (LLMs), and scalable backend architectures. I love building systems that bridge the gap between complex AI models and real-world user applications.
+I am a passionate AI Engineer specializing in Generative AI, Large Language Models (LLMs), and scalable backend architectures. I love building systems that bridge the gap between complex AI models and real-world user applications.
 
 - I am currently working on **Intelligent Conversational Agents** and **Retrieval-Augmented Generation (RAG)** systems.
 - I am currently diving deep into **Agentic Workflows**, **Vector Databases**, and **High-Frequency Trading** optimization.
